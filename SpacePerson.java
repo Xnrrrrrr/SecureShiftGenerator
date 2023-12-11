@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class CryptoLingua {
+public class SpacePerson {
 
     // Define the Space Person alphabet
     private static final Map<Character, Character> spacePersonAlphabet = new HashMap<>();
